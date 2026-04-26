@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env*
+data/
+cookies/
+.superpowers/
+.worktrees/
+worktrees/
